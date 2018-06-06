@@ -13,9 +13,15 @@ this npm package provides the top 100 most adorable and cute cat names randomly.
 
 ## Usage
 
-Library:
+### Library
 
 ```
 const catNames = require('@pnkbrn/cat-names')
 console.log(catNames.getRandomCatName())
 ```
+
+### CLI
+
+`npx @pnkbrn/cat-names` outputs 1 cat name
+
+`npx @pnkbrn/cat-names 4` outputs 4 cat names

@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const catNames = require('./main')
 
 if (process.argv.length === 2) {
