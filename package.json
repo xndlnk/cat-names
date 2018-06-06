@@ -1,8 +1,11 @@
 {
   "name": "@pnkbrn/cat-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "randomCatNames.js",
+  "main": "main.js",
+  "bin": {
+    "cat-names": "./cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
