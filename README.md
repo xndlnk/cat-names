@@ -2,6 +2,8 @@
 
 this npm package provides the top 100 most adorable and cute cat names randomly.
 
+![cute cat](cute-cat.jpeg "cute cat")
+
 ## Install
 
 `npm install @pnkbrn/cat-names`
